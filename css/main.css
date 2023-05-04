@@ -22,6 +22,7 @@ h2 {
 p {
  color: 	#ff8641 
 }
+/***For screens bigger than 768px***/
 
 @media (min-width: 768px) {
   h1 {
